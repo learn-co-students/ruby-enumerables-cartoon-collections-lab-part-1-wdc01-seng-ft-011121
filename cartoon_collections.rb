@@ -22,4 +22,4 @@ end
 #print 1 
 #print "."
 #print "Gr"
-list_dwarves( ["Gimli", "Thorin", "Balin", "Gloin"])
+#list_dwarves( ["Gimli", "Thorin", "Balin", "Gloin"])
